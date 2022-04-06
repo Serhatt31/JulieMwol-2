@@ -1,6 +1,6 @@
-/* Copyright (C) 2020 Yusuf Usta.
+/* Copyright (C) 2020 Serhat Sensei.
 
-WhatsAsena - Yusuf Usta
+WhatsAsena - Serhat
 */
 
 const { Sequelize } = require('sequelize');
